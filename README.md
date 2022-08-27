@@ -9,3 +9,8 @@
 #instalando nodemon
 #npm scripts
 #configurando Eslint e o editorConfig
+#criando controller de contatos
+#entendendo o repository pattern
+#criando o repository de contatos
+#criando as rotas  de show e delete
+#o que são middlewares?
