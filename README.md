@@ -14,3 +14,5 @@
 #criando o repository de contatos
 #criando as rotas  de show e delete
 #o que são middlewares?
+#criando rotas de cadastro de contatos
+#criando rotas de edicao de contatos
